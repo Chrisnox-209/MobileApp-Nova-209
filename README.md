@@ -1,4 +1,4 @@
-# ✈️ NOVA 209 - Application Relais de Télémétrie et Vidéo
+# <img src="img/icon.png" width="40" height="40" align="absmiddle" /> NOVA 209 - Application Relais de Télémétrie et Vidéo
 
 **NOVA 209** est une application Android "Companion" de haute performance, spécialement conçue pour servir de relais de communication à bord d'une aile volante ou d'un drone (via un contrôleur de vol comme le **Matek F405-Wing**).
 
@@ -72,6 +72,24 @@ Puisque le téléphone vole à bord de l'aile, l'écran allumé consomme de la b
 ## ⚠️ Notes importantes pour le vol
 - Veillez à bien accorder les permissions Caméra et Micro lors de la première installation. Sans cela, le flux vidéo sera bloqué par Android.
 - Le flux MAVLink requiert que le câble USB OTG soit connecté **avant** d'initialiser la liaison, et le contrôleur de vol doit être configuré pour cracher la télémétrie sur le port USB (Mavlink 1 ou 2).
+
+## 🔌 Câblage Matériel (Hardware)
+
+Pour relier votre téléphone au contrôleur de vol et recevoir la télémétrie MAVLink, vous aurez besoin d'un adaptateur USB-Série comme le **CP2102N-A02-GQFN24R**.
+
+<p align="center">
+  <img src="img/CP2102N-A02-GQFN24R.png" width="40%" />
+  <img src="img/F405-WING V2.png" width="40%" />
+</p>
+
+### Schéma de connexion :
+1. **Branchez** le CP2102N sur le port USB de votre téléphone à l'aide d'un adaptateur USB OTG.
+2. **Câblez** les broches du CP2102N vers un port UART libre du contrôleur de vol **Matek F405-WING V2** :
+   - `TX` du CP2102N vers la broche `RX` d'un UART du Matek.
+   - `RX` du CP2102N vers la broche `TX` de ce même UART.
+   - `GND` vers `GND`.
+   - *(Ne branchez pas le 5V si le Matek est déjà alimenté par sa batterie LiPo !)*
+3. **Configurez** le port UART correspondant dans iNav / ArduPilot pour émettre de la télémétrie MAVLink.
 
 ---
 *NOVA 209 - Développé pour repousser les limites des vols longue distance via réseau cellulaire.*
