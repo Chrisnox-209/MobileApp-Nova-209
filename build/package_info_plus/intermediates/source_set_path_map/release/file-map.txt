@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-annotation-experimental-1.1.0-0 /home/sirz/.gradle/caches/transforms-3/4747a053752d5efcda16a6cb1384e3e2/transformed/jetified-annotation-experimental-1.1.0/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-core-1.6.0-1 /home/sirz/.gradle/caches/transforms-3/9c4085b317096191f166675acb6eb65e/transformed/core-1.6.0/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-java-1.0.0-beta04-2 /home/sirz/.gradle/caches/transforms-3/a050fa04942be87c9bdbd4cc46703304/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-1.0.0-beta04-3 /home/sirz/.gradle/caches/transforms-3/a6c5abc72e5003a7a1a6a7bf1c39a760/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-main-4 /home/sirz/.pub-cache/hosted/pub.dev/package_info_plus-8.3.1/android/src/main/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-5 /home/sirz/.pub-cache/hosted/pub.dev/package_info_plus-8.3.1/android/src/release/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-6 /home/sirz/Documents/App_wing/build/package_info_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-resValues-7 /home/sirz/Documents/App_wing/build/package_info_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-rs-8 /home/sirz/Documents/App_wing/build/package_info_plus/generated/res/rs/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-9 /home/sirz/Documents/App_wing/build/package_info_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-10 /home/sirz/Documents/App_wing/build/package_info_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-merged_res-11 /home/sirz/Documents/App_wing/build/package_info_plus/intermediates/merged_res/release

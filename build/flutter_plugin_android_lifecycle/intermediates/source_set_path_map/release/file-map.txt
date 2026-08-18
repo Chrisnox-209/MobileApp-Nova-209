@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-0 /home/sirz/.gradle/caches/transforms-3/4747a053752d5efcda16a6cb1384e3e2/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-1 /home/sirz/.gradle/caches/transforms-3/9c4085b317096191f166675acb6eb65e/transformed/core-1.6.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-2 /home/sirz/.gradle/caches/transforms-3/a050fa04942be87c9bdbd4cc46703304/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-3 /home/sirz/.gradle/caches/transforms-3/a6c5abc72e5003a7a1a6a7bf1c39a760/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 /home/sirz/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.22/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 /home/sirz/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.22/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 /home/sirz/Documents/App_wing/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 /home/sirz/Documents/App_wing/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 /home/sirz/Documents/App_wing/build/flutter_plugin_android_lifecycle/generated/res/rs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 /home/sirz/Documents/App_wing/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 /home/sirz/Documents/App_wing/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 /home/sirz/Documents/App_wing/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release

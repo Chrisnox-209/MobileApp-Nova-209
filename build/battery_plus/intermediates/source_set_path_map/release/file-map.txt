@@ -1,0 +1,14 @@
+dev.fluttercommunity.plus.battery.battery_plus-lifecycle-runtime-2.3.1-0 /home/sirz/.gradle/caches/transforms-3/213c85e2d6149309efe4de8f1231e5f9/transformed/lifecycle-runtime-2.3.1/res
+dev.fluttercommunity.plus.battery.battery_plus-core-1.10.1-1 /home/sirz/.gradle/caches/transforms-3/25604bfc482b2f308ee11fad52a847d0/transformed/core-1.10.1/res
+dev.fluttercommunity.plus.battery.battery_plus-jetified-annotation-experimental-1.3.0-2 /home/sirz/.gradle/caches/transforms-3/2b3faa70e77102955700af203485d3d3/transformed/jetified-annotation-experimental-1.3.0/res
+dev.fluttercommunity.plus.battery.battery_plus-jetified-window-java-1.0.0-beta04-3 /home/sirz/.gradle/caches/transforms-3/a050fa04942be87c9bdbd4cc46703304/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.battery.battery_plus-jetified-core-ktx-1.10.1-4 /home/sirz/.gradle/caches/transforms-3/a35bd3a50829c570bf48eb2c479fd508/transformed/jetified-core-ktx-1.10.1/res
+dev.fluttercommunity.plus.battery.battery_plus-jetified-window-1.0.0-beta04-5 /home/sirz/.gradle/caches/transforms-3/a6c5abc72e5003a7a1a6a7bf1c39a760/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.battery.battery_plus-main-6 /home/sirz/.pub-cache/hosted/pub.dev/battery_plus-5.0.3/android/src/main/res
+dev.fluttercommunity.plus.battery.battery_plus-release-7 /home/sirz/.pub-cache/hosted/pub.dev/battery_plus-5.0.3/android/src/release/res
+dev.fluttercommunity.plus.battery.battery_plus-pngs-8 /home/sirz/Documents/App_wing/build/battery_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.battery.battery_plus-resValues-9 /home/sirz/Documents/App_wing/build/battery_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.battery.battery_plus-rs-10 /home/sirz/Documents/App_wing/build/battery_plus/generated/res/rs/release
+dev.fluttercommunity.plus.battery.battery_plus-mergeReleaseResources-11 /home/sirz/Documents/App_wing/build/battery_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.battery.battery_plus-mergeReleaseResources-12 /home/sirz/Documents/App_wing/build/battery_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.battery.battery_plus-merged_res-13 /home/sirz/Documents/App_wing/build/battery_plus/intermediates/merged_res/release

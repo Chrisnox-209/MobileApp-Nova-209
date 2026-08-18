@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "dev.bessems.usbserial.usb_serial-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "dev.bessems.usbserial.usb_serial-core-1.6.0-1:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "dev.bessems.usbserial.usb_serial-merged_res-10:/layout/notification_action.xml",
+        "source": "dev.bessems.usbserial.usb_serial-core-1.6.0-1:/layout/notification_action.xml"
+    },
+    {
+        "merged": "dev.bessems.usbserial.usb_serial-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "dev.bessems.usbserial.usb_serial-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "dev.bessems.usbserial.usb_serial-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "dev.bessems.usbserial.usb_serial-core-1.6.0-1:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "dev.bessems.usbserial.usb_serial-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "dev.bessems.usbserial.usb_serial-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "dev.bessems.usbserial.usb_serial-merged_res-10:/layout/custom_dialog.xml",
+        "source": "dev.bessems.usbserial.usb_serial-core-1.6.0-1:/layout/custom_dialog.xml"
+    }
+]
