@@ -1,4 +1,4 @@
-# <img src="img/icon.png" width="40" height="40" align="absmiddle" /> NOVA 209 - Application Relais de Télémétrie et Vidéo
+# <img src="img/icon.png" width="100" height="100" align="absmiddle" /> NOVA 209 - Application Relais de Télémétrie et Vidéo
 
 **NOVA 209** est une application Android "Companion" de haute performance, spécialement conçue pour servir de relais de communication à bord d'une aile volante ou d'un drone (via un contrôleur de vol comme le **Matek F405-Wing**).
 
